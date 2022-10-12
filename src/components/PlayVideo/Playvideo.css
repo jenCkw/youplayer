@@ -1,0 +1,18 @@
+
+.playvideo{
+    height:80vh;
+    width: 100%;
+}
+
+.playvideo_container{
+    margin: 0 auto;
+    border: 1px solid red;
+    width: 70%;
+    height: 85vh;
+}
+
+.playedvideo{
+    height: 80%;
+    width: 100%;
+    border: none;
+}
